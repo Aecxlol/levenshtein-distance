@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":253:{a:2:{s:7:"defects";a:1:{s:33:"LevenshteinTest::testDistanceCalc";i:3;}s:5:"times";a:3:{s:33:"LevenshteinTest::testDistanceCalc";d:0.006;s:45:"LevenshteinTest::testDistanceCalcWithoutSpace";d:0.007;s:42:"LevenshteinTest::testDistanceCalcWithSpace";d:0;}}}
